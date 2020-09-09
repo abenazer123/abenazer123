@@ -1,8 +1,6 @@
 # Hello World, I'm Abenazer 👋
 
-# I'm passionate about:
-- Creating opportunities for minorities
-- Connecting people 🔗
+# Passions:creating opportunities for minorities & connecting people 
 
 - 🔭 I’m currently working on www.fello.ai
 - 🌱 I’m currently learning:
