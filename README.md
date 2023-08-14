@@ -1,4 +1,3 @@
-### Hello World, I'm Abenazer 👋
 
 ### I'm passionate about creating opportunities for minorities & connecting people 🔗
 
